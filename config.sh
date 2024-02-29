@@ -7,7 +7,7 @@ export BRANCH="twrp-12.1" # the branch of manifest
 
 # about your device
 export DEVICE="a20e" # codename used in device tree
-export DT_LINK="https://github.com/youssefnone/android_recovery_samsung_m10lte" # device tree link
+export DT_LINK="https://github.com/Gipunto/twrp_recovery_samsung_a20e" # device tree link
 export DT_BRANCH="twrp" # device tree branch
 export VENDOR="samsung" # device manufacturer or vendor
 export TARGET="recoveryimage" # build method: recoveryimage, bootimage, vendorboot
